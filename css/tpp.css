@@ -5,3 +5,15 @@ body {
 header {
     text-align: center;
 }
+
+.candidates {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5%;
+}
+
+.candidate-tile {
+    margin: auto;
+    padding: 3%;
+}
