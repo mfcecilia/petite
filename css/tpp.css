@@ -22,3 +22,11 @@ button {
     font-size: 1em;
     cursor: pointer;
 }
+
+
+footer {
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    text-align: center;
+}
