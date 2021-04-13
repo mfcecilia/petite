@@ -13,3 +13,10 @@ footer {
     margin: auto;
     text-align: center;
 }
+
+iframe
+{
+    max-width: 90%;
+    margin: auto;
+    max-height: 90%;
+}
